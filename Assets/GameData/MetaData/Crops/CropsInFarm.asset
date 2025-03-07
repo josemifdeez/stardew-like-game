@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 343569f0d68cd7c499b0644775581dd3, type: 3}
+  m_Name: CropsInFarm
+  m_EditorClassIdentifier: 
+  crops:
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: 1, y: -4, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: 2, y: -4, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: -1, y: -4, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: -2, y: -4, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: -2, y: -5, z: 0}
+  - growTimer: 20
+    growStage: 4
+    crop: {fileID: 11400000, guid: 87856083700c9fc47b3eea5a8a6cf124, type: 2}
+    cropRenderer: {fileID: 0}
+    damage: 61.14121
+    position: {x: -1, y: -5, z: 0}
+  - growTimer: 30
+    growStage: 4
+    crop: {fileID: 11400000, guid: 1ce58b1a819e81e45939bfd2e96897d0, type: 2}
+    cropRenderer: {fileID: 0}
+    damage: 61.021206
+    position: {x: 1, y: -6, z: 0}
+  - growTimer: 20
+    growStage: 4
+    crop: {fileID: 11400000, guid: 849691b5b7e1d134c9abe3ce46da8b83, type: 2}
+    cropRenderer: {fileID: 0}
+    damage: 60.001183
+    position: {x: -2, y: -7, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: -1, y: -7, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: 2, y: -6, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: 2, y: -7, z: 0}
+  - growTimer: 25
+    growStage: 4
+    crop: {fileID: 11400000, guid: bb781c51bfb15fb4fafca3be8ff5637c, type: 2}
+    cropRenderer: {fileID: 0}
+    damage: 60.881203
+    position: {x: 1, y: -5, z: 0}
+  - growTimer: 30
+    growStage: 4
+    crop: {fileID: 11400000, guid: 2f17039dd3cae554aad21bf31771d1cb, type: 2}
+    cropRenderer: {fileID: 0}
+    damage: 60.641197
+    position: {x: -2, y: -6, z: 0}
+  - growTimer: 25
+    growStage: 4
+    crop: {fileID: 11400000, guid: f664ee83e310a104d90fdced1efc9b9c, type: 2}
+    cropRenderer: {fileID: 0}
+    damage: 60.521194
+    position: {x: 2, y: -5, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: 8, y: -5, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    cropRenderer: {fileID: 0}
+    damage: 0
+    position: {x: 0, y: -8, z: 0}

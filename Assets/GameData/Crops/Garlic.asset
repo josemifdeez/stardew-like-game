@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf21dd37f0815c241aa2e76ae26e5b46, type: 3}
+  m_Name: Garlic
+  m_EditorClassIdentifier: 
+  timeToGrow: 25
+  cropResult: {fileID: 11400000, guid: 5302d1119aae33d4e890d8a9cbaf8550, type: 2}
+  count: 6
+  sprites:
+  - {fileID: 1049532344, guid: 49b2f0e4a9991eb428ce7f71f4ef1ea8, type: 3}
+  - {fileID: -1758960462, guid: 49b2f0e4a9991eb428ce7f71f4ef1ea8, type: 3}
+  - {fileID: -128173628, guid: 49b2f0e4a9991eb428ce7f71f4ef1ea8, type: 3}
+  - {fileID: 1983611247, guid: 49b2f0e4a9991eb428ce7f71f4ef1ea8, type: 3}
+  growthStageTime: 00000000090000000f00000019000000

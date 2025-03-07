@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ad140854d396fa479715d217dcc1700, type: 3}
+  m_Name: MisteriosoDialog
+  m_EditorClassIdentifier: 
+  line:
+  - "Ten   cuidado   en   la   cueva.   Hay   enemigos   dentro.   Prep\xE1rate  
+    bien   antes   de   entrar."
+  actor: {fileID: 11400000, guid: 484765c93c3fba94ebe0eb6ac4b50084, type: 2}

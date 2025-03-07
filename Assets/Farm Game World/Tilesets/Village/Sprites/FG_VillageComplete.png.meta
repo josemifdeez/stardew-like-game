@@ -1,0 +1,5609 @@
+fileFormatVersion: 2
+guid: 7f88df918fd75074ea3f25c77f29d772
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FG_VillageComplete_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078a7cc791e061418274ee417cfa481
+      internalID: 1699410892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 384
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c794b6d891a89847a7a6d0923bec2b4
+      internalID: 461188172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 400
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58bd062b8050be438ba73c3145dc2fe
+      internalID: 1918525391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 368
+        width: 86
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f29667399e4b49429b354caf4281cc9
+      internalID: 1188912814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 464
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c8059e750cda44996850df2e4d848
+      internalID: -823627176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 424
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a253b9b8b0eb945a76c46f359a4b20
+      internalID: -1007080503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 303
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d666aebcb22d43f41a4e87a094c2e0e2
+      internalID: 887073430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 352
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48dce6f1aa0344cbd969467386bfd9
+      internalID: 2050108015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0351e229cb3a34eb6cce2f35fcaf53
+      internalID: 1392549584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 376
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85179a2d8d551754399da44cb740b9c0
+      internalID: -971245844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 352
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a76874273cd8674690221de372c28c8
+      internalID: 1417039594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 352
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837426e872010f43a6c66d869b1c873
+      internalID: -802718042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 352
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dbf3813ec1dbb4c995143009841f1e
+      internalID: 675975109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 352
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f8721741e24d4e9ed2297233b8cd2
+      internalID: -1773724001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 352
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb7b04291e31d4fa8f5386aafc6e0d
+      internalID: 428285697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 352
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb8e2479951fd42b7b9f5847326c09
+      internalID: 1679999290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9bf0ce8df7f0e4dbceb0cd50bcdfe2
+      internalID: -1306034111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 320
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20146b95332355044aef333aca9dd0dc
+      internalID: -250757295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 320
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3686b9e0a8c2646aa3643457a334e2
+      internalID: 186978142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6c03484131964298e0e661a4f8a5d
+      internalID: -1975571914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_20
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 336
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121917584fc41964992bb17c48e4fb21
+      internalID: 353464296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987b2287cce5134c956656351c69187
+      internalID: -954293444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_22
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 320
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc65e279c331ad4f948e88091352a84
+      internalID: 1144952480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 320
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f7759a80017a4f9f83ade45ee3179
+      internalID: -126139485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 320
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b7c7629d9e96448a0506976b3a3f3
+      internalID: -1940133622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 320
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06442d370ac9e624892829751e136878
+      internalID: 1532550681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 144
+        width: 125
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23153796f1ec614a8859564425aa1d2
+      internalID: -720737541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138ee4ef45601a40879fe6176202617
+      internalID: 861501033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 288
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8365c9d451c564b896c0f585f4df43
+      internalID: -1376814610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 288
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba03c3c06c0e9404db10e6fcdf37f47c
+      internalID: 254654773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_30
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 288
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6487f5d2b06b8a548b62f6f3cefe8737
+      internalID: 1283196873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 288
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e091ea0808655f34f9ae7da43486b2c8
+      internalID: 297278574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 288
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d418d35746b00d429fb13aae389c559
+      internalID: -622986527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0cbfd5caca7f24385a001e43361305
+      internalID: 1056045580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_34
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 288
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5502451fdbdf4c43826034946e0e7aa
+      internalID: 1340854659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 112
+        width: 86
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef12bf4810c1446b8d28323d0fece0
+      internalID: 1540045448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_36
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 256
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b39138816e04f94e8be586b0e855551
+      internalID: -1324161191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 208
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edeaf23760c3ac4889b1193cc523834
+      internalID: 1322416664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 112
+        width: 101
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc951b340ba484b8839a073da00b9d
+      internalID: 759042421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe35110e9fc8541b2928ee95c5281e
+      internalID: -1485110707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 202
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6410db9f7ceb44a7e5c4b77e4a55e
+      internalID: -1887058288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 198
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96381034778b1a64588df540c71aa206
+      internalID: -1535891121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 202
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7012c7cf75b51e44a62bb6fc0110338
+      internalID: -528874523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 202
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfdcc71d928aa441beffee1851bf613
+      internalID: 784110995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 198
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e890ad59e718b9418e4b536ec9e9964
+      internalID: -815746446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 202
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec60a01d8e4f7aa4db2ca82d70ab3088
+      internalID: -1401609224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 198
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb66835134d18264a8f569f42fcb1363
+      internalID: 1521196032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 339
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c310c469e1048548b5e0aee9f426a86
+      internalID: 1624747930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 256
+        width: 84
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.5693283}
+      border: {x: 25, y: 21, z: 41, w: 87}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710cf4e016d0c8544bd1d0cb45c22dd2
+      internalID: 1916898090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb1a16cee4ecb46b06d1b6cf8a6915
+      internalID: -1315143486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6b2e09bcb49546a49c3bd84bc7097
+      internalID: -233002633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 192
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93882bed84fc39c4da0831c570c9ee99
+      internalID: -1652547821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 256
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8122cdb34c3381459ab14357b68a8a1
+      internalID: -1614443774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 196
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897827c461c87e249a4d5e64dd357462
+      internalID: -971345874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 192
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b6e34434e53049a1e84a1b0b1efb4
+      internalID: 1964009777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 168
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae009081f0613524cbb18ba4f4beb2cb
+      internalID: -1168008834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 186
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6697779751dcd2f4fac1176ce39e9ab7
+      internalID: 351732398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 186
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1606148b0cab8d747862b4bb459fc9b2
+      internalID: -2121085918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 182
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03426f3cc20b2b64f9f7fd74dfd3557f
+      internalID: -1225387030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 186
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366173b94516e8641a61453e5fad92a5
+      internalID: -228186773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_60
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 186
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b6d4b39353ee2488ea0c0b155903cd
+      internalID: -2044752808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_61
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 182
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f97a08b464dc5845a31e520fbb4c237
+      internalID: -1548682902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 186
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842d46c1c18d66840a5e16b99ae60dc9
+      internalID: -685918435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 178
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9d423a4422d14181ba9f9d254b98b
+      internalID: -1080278496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 186
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dbaa6817321cb438b1536ceb805cd0
+      internalID: 298101777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_65
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 186
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5eb63816c53584f9e093655de03dd6
+      internalID: 1050619045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_66
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 186
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f103d08e0cafd4e919744e80a6da51
+      internalID: -809835343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 176
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435640c950b3124b830d47839d57c49
+      internalID: -294819921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_68
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 176
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5136e487312f1444ad418291b798b06
+      internalID: -881876876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbbc571025bf7449de62ea66276560
+      internalID: 1624355415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1f95ac702e92489aed8ce755ce0ab
+      internalID: 158021333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_71
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 176
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2a09e324b4d9b43b97d4da53596ffb
+      internalID: 625766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_72
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 182
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d363ab43d4545ad4190552b8aa4f9ab4
+      internalID: 1121028219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 170
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d597de35f51d4354faa15ea760f40abd
+      internalID: -1764712693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_74
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d46c0617ebae544b818b973beca371
+      internalID: 2016100414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_75
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 166
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea195662239e9e145ad87e4776564d2a
+      internalID: -1318262374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_76
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 170
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98477e60e418f4845b767cdbfe1d6d12
+      internalID: -270408275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_77
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6051f095add48f4d8b0f9ff57475ee7
+      internalID: -1797405038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_78
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 166
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4459a6d1c9be6e34fb65c451150bad4d
+      internalID: -288681254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_79
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 170
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9849ddece07bc554085314b7d8d8d318
+      internalID: -304338882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76ada154ddef554ca3462081b1c8ef2
+      internalID: 976929195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 170
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad834863798503b4396afa288b8f96ec
+      internalID: 1629655826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 170
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77380fe2beb2f7641af8e0018ff2fa64
+      internalID: -1560821707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_83
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7264ce0b4da474ab5052dc25742d72
+      internalID: -1538583947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 164
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1876f7a3fa7fff4bb7c3755d4a650d3
+      internalID: -274928369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_85
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 164
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b12c91e4e3e104d8c23c8ce9623b37
+      internalID: -1128028096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_86
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f13c8c64d9a8458496d84a254f1a0
+      internalID: 1068939458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 166
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b663f8d5ccb5547a7d9d97b3f32077
+      internalID: 152676393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_88
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 160
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c594030a440249a481e540fe259cc
+      internalID: 27630954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_89
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 166
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ae9c0ab099554f9272f0512c25f91
+      internalID: 1925895023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_90
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 160
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4541aa750aadf9459c1b15300c20885
+      internalID: 1575659499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 146
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c10776d701614f94bc59bd38a302c
+      internalID: -734527383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 154
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a728687d88bd404bb3354f3032ba382
+      internalID: -476841067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_93
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 154
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430fc1e00dcd1d84ebf0d28ba5585247
+      internalID: 738991816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_94
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 150
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cdb30dbae071a468398ff7f00e73e1
+      internalID: 1364918905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_95
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 154
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251c47b5a0cd5c46835a2dd315c8ad3
+      internalID: -1173204756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_96
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 154
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe39ea305f85b4ea59ad42dec2dc7b
+      internalID: 59187407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_97
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 150
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce315c086534722488a7e348821edfbf
+      internalID: 776583178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_98
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 154
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9638e013168d15c4fbc8d793f9959217
+      internalID: 2021052864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_99
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 154
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08735490366b245b0bd2dc049e1f24
+      internalID: 246958808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_100
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 150
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f3023f2a99fe14d89f1fe728d66d9c
+      internalID: -1369616992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_101
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 144
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ed7310f5c9414dbfcc5faba313b47
+      internalID: -73776064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 150
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d538b4ebf24f724484895092965160f
+      internalID: -1430432644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_103
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 144
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218a8e94f8d7fd0479e9fcb0a782a821
+      internalID: 1045084100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_104
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 150
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3ae9de8f7e50d4b81d7d4d91a5f78e
+      internalID: -1474660319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_105
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6829e662d4c7c9c4f80386bfb5f4b34a
+      internalID: 1109434323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_106
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 144
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b979ce3ab1cf8541812b17dc6ef66d1
+      internalID: -605660591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_107
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 148
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6df115c611cd447a3762b1c698f8e5
+      internalID: 452644765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_108
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 144
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96880276910867a46a5dd7f1c52b95e6
+      internalID: 1782235374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_109
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 120
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f5ca1b16523734284871d29dfac9eb
+      internalID: -852468428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_110
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 138
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e29f91a9ecaf34db49affaaaced4ea
+      internalID: -670267452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_111
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 138
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190e9b1a6b3132045b24330febd6a722
+      internalID: -827491284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 134
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9508dc45cd2cdac408e6593c56466b60
+      internalID: -1112194652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_113
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 138
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69176e649b0f9e4282379d2ffd3c769
+      internalID: -1109491907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_114
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 138
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880086c26b19ba44491296f945f92771
+      internalID: -324396162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_115
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 134
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45800977e28b6564ca886d47543d6673
+      internalID: 314449459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_116
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 138
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fdcbf6ac825ed4387144a8bf45c718
+      internalID: 1641100368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0080ee6cc73c08c4a97f92f810f7cbf5
+      internalID: -818610977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_118
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 138
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f8820e9e4bb124b8c5a990ec506d98
+      internalID: -1635416909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_119
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 138
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f7295fe8615e4ca5a2856bf98b139
+      internalID: 338710988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_120
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 138
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d23b49101579d4cbdb914e024cdef4
+      internalID: 258197748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_121
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 138
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37bea780ce0f5f44963709384b063e8
+      internalID: -1155843142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_122
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 138
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff400d66411714b87bad86c143d4e1
+      internalID: -1270760889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_123
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23461770a82f8e94d82cb304ac0b1011
+      internalID: -90522781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c0b4ddc4a20e945bf2ace386a5c3a8
+      internalID: 416259393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_125
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2072332c6cbb91841bcae9b432670ef0
+      internalID: -608152742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_126
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f94e2751833cb4685e704cc9e9bcc4
+      internalID: 572995863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_127
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc22b6b955988e47a7555b6ba032294
+      internalID: -1565047806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_128
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c89220fc460a34b91491c9ede21d6f
+      internalID: -2003647725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_129
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 128
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c23f818344d17448ad24a33d7362ac3
+      internalID: 432329460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_130
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55468cc3b073d11498196a93da86a79d
+      internalID: -1965056014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_131
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 128
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19fa1aa69e59d24d8159d2192e539f6
+      internalID: 594933658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_132
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa593f2cdfb28c458b2ee2ac5189ad3
+      internalID: 1771418459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_133
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 122
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033bfe7c473a8041888bf96ff645572
+      internalID: -1085399902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_134
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 118
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c43dc97685fb4995ed86d4061a0fd
+      internalID: -1517544361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_135
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999871eefb46f3742a52276edd13b464
+      internalID: -256488179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_136
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 122
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4c33fad665a564e98775b4a3885c40
+      internalID: -1634292589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_137
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 118
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9176b1ce5c206469935fd0a6cac360
+      internalID: -245496361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_138
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81155d18423f7745b0ef5f5b27c4018
+      internalID: 526026365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 114
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f166cabfdeac3f4ea680d79dfcd3a82
+      internalID: 811454816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_140
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51bcfa376a00854691669de7902705e
+      internalID: 477091986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_141
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3c5c6e08ec1cc408125261963e2946
+      internalID: 451217379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_142
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 122
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8588f22dce3c94ba6a73c2b3958536
+      internalID: -1356108505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_143
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 96
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0c78e65a5df74b9416316df59cd75
+      internalID: -1576696359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_144
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 116
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611fe19f0b95eb04a9138624981abd02
+      internalID: -913574315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_145
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 116
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94501a872169d149a85ab66f1602ec4
+      internalID: 1292608939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_146
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 112
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ecbdcdac42104780575be3d2485b8
+      internalID: -317118726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_147
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 118
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b278dab18be5f439fcc64e96a8f23a
+      internalID: -811356232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_148
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 112
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30ac665bd6fbd4da1ada8f60d4bbe7
+      internalID: 621175909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_149
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 118
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb42f9da0cd55914eb13de1b8e61e66e
+      internalID: -1913875694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_150
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 112
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e89c604c82ad342a0f728fb3e96e83
+      internalID: -194875898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_151
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e199bb6b643204eb1d3d5a79cf1c4d
+      internalID: -1511024138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a3a92508ca0c4e9aa29da5c6072cb
+      internalID: 2130066411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_153
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11bbf04da457224ba3043e2e305e770
+      internalID: 1952377879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_154
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 81
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dbdc2f04c41734a8a718ed2cf2c470
+      internalID: -1224976946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_155
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 102
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a6ce578b2b7244b5b3ceb9ea1d8f9
+      internalID: 467637333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_156
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 102
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5a95c30e0ec443a2faf9665f5c002
+      internalID: 1712507551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_157
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 102
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25881097b0ff3424387232e9c0a24789
+      internalID: -1309785126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_158
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 96
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52643fdc5a731084a9f9c1aaebdfa482
+      internalID: -1490315480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_159
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 96
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8254582b95c2b14db3b1e9498d04299
+      internalID: 538766631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_160
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 96
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfc7106fbde3da4bb3d5790580e364d
+      internalID: 754257245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_161
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 96
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c03a2ca3038534882a553bbd1aa53c
+      internalID: 562490635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_162
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 96
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9445ca2d4fe4e14ca74fe7bccb96186
+      internalID: 1182166594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_163
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 96
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaba14d7f63b447429625ed790fa06ea
+      internalID: 29752450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_164
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8215b9f2c575749bc4374442e87eb3
+      internalID: -712269294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_165
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac016d684602091459cc3073da895654
+      internalID: 1742535954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_166
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18839f13adef094b9c0ad21bdc262c0
+      internalID: 1976492596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_167
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fd46c9c7882d04f97b4d4c27b2c2f5
+      internalID: -781482497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_168
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 81
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63080d4e854006648820c8ac01ab7f6f
+      internalID: -1454794242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_169
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 81
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b8785a757d76f4da7a042e2ca09a7d
+      internalID: 1089373369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_170
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 81
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d998ed049ba490b4cbd5f318d760ab82
+      internalID: 1702715441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_171
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982600551c360394887b3a9559755903
+      internalID: -644275671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_172
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3448b34779cfe8649a7bc72b7b9c17af
+      internalID: 703508594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_173
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1192c4f86f114b247badd6b18e9417a5
+      internalID: 1887442256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_174
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e273f1abdde9b34d8bd997ee91d6b3c
+      internalID: -1462890690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_175
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c14ac35911fcc48b539a5858ff49b2
+      internalID: -1306358863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_176
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 64
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa48713f4791aee48a537ab2fe78c2e3
+      internalID: 1660126024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_177
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8980f67b08a4dda4d801b8d644c8d0de
+      internalID: 295509653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_178
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 80
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879a030794c36cf4eb40bc8eee783127
+      internalID: 866501033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_179
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab237af3490ee46b24a6bcba1d0255
+      internalID: -1066240204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_180
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 48
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178499010a0a99149b7051154a371c4d
+      internalID: -1684521628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_181
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb9b9dec7ab5c4ca455b07b261ab24
+      internalID: -1682490819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_182
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 72
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801750ec2c31e9f4f9bf3c8bbb3b406a
+      internalID: -754848990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_183
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b9b28136a90a4da2bb9fac8c29387
+      internalID: 1559437903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_184
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a79c68ae7d764da3030ea9046e498
+      internalID: 1449612606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_185
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b9a18c74018114eb251fe71e6dfd5f
+      internalID: 764450385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_186
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c740564e6e8258948b031123eed98851
+      internalID: 1125733052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_187
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de33ad66f3c7841b8cfc9152630d63
+      internalID: 404609803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_188
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21f57659000d9c43a10d5d76a2fcb0b
+      internalID: -18284255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_189
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2b067f5b8a9745818c1e2b8575d0c
+      internalID: 299122441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_190
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e26e813c1f544e9535d23c49596dc
+      internalID: 1244284081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_191
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab84bc58e7703e4492a82adae26ef52
+      internalID: 1552576888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_192
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 65
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f125efa408cc7439fd67c6059896b4
+      internalID: 890712781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_193
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a24c06ce009c4cace55d32e9bf74e
+      internalID: 1517225830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_194
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e0e938b5ff9b46af0932f3727f8e7
+      internalID: 1033979618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_195
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf016b257e8d204093e12bccb9a9e49
+      internalID: 235082259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_196
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a830644044eb4187109b3494a2af2
+      internalID: -1770195989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_197
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 52
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1732bc32339003b48932717737ed4b95
+      internalID: -1534285787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_198
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 54
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332ae94ebff7ce14eb5eacee2005bf2a
+      internalID: -1325118376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_199
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 32
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e481dfc178632ad439ad7da6589fdc06
+      internalID: 863957331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_200
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 32
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583a8f23069d5d941bcd4c2b4e747e7c
+      internalID: 854945544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_201
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 32
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bbfad811b0cd5419bc4a5b8d35233d
+      internalID: 882466609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_202
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 32
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147de81adc3d1a040af9d145586ced7f
+      internalID: -875624027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_203
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 32
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3704012dd4af6f143bbd18bfb9754618
+      internalID: 41286774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_204
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 32
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43846c55762ea9e45a36521ee086f94e
+      internalID: -5153836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_205
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e095b563618784caade0d8f8d32274
+      internalID: 1709447125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_206
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c450636ed9f8a4d8593d2180ff3536
+      internalID: -1750161209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_207
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a03bd8b6bd4c4fb98cb1980e5f09a
+      internalID: -1431187909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_208
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b1f3f457525b40af3fc6ae1b8538e
+      internalID: -1079680784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_209
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5bc7ce35b9c0a44a380ac8dfc14e88
+      internalID: -1583260884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_210
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 33
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2eab2c9727187418580dbea8173862
+      internalID: -1658033745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_211
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a98822ccb98c78419a1a73c3f4f6e4f
+      internalID: 1068911535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_212
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 33
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8348a2d3433484fb1f7d379f155344
+      internalID: 17875618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_213
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585f7b458b05d647a6b7a246bd6ae98
+      internalID: -1511498412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_214
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 33
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c105fbbfa2fc4fa618b41f394f253
+      internalID: -1747477813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_215
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ffd5524e44e724a978c8b05a919188
+      internalID: 432136065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_216
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6181c0449a1086f498e746ecbba3e6fb
+      internalID: 426434785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_217
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e164feaf523338438ad0d71e8d4c02f
+      internalID: 604790772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_218
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102e69063d7e968468241a2c99ab54f1
+      internalID: 1507437785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_219
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf45c3afd27f1941b1abda9fd84194d
+      internalID: 1449575022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_220
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e1d4941d50a0b4e9155044c5d00489
+      internalID: 165562467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_221
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c22c03da901d0a4c85ffca5a19c82ab
+      internalID: -762272455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_222
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a553c494da8274d86bb58d8b0682da
+      internalID: -1837787855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_223
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef7ce35ce194b744b6888a16f31f9da
+      internalID: 199307338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_224
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6f180f7b26a1845a81303b74573905
+      internalID: -757837913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_225
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 24
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0985e40f5e996e499ffdc7796c47fa9
+      internalID: -712486711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_226
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 25
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a67de52cf847c41b3e9de2732e7c28
+      internalID: 1326166184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_227
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7d6c156a4c62842bc30825f0d758f4
+      internalID: 625173178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_228
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0992f5eacd11418286fcfb1addca2
+      internalID: -1279054696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_229
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55a57ea922e8924fa8852b7b5cb616f
+      internalID: 2083624482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_230
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7b5d73e6e4d9c4a8e2e753ec9f73fb
+      internalID: 1790956284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_231
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8725143af4e598409bd68771750927e
+      internalID: 95742745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_232
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d3de74b9928114ca693e2c3e410ecd
+      internalID: 929634856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_233
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5d5abf45d9ec4ab4ca1c0c2215116
+      internalID: 2082565046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_234
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 16
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517f9bf0eee37e4f856171514190bd4
+      internalID: 859330826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_235
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 17
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb4a560f6647845a0428eca97f52f7
+      internalID: 549483549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_236
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0c92f971c622448998cf1926fa5d5
+      internalID: -1909229495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_237
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3002b3724cb3a948bf54805c0b724e3
+      internalID: 2034646989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_238
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96e67f3ed78b841a5701dcfca86f92
+      internalID: -538474956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_239
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ad36916c9116e4ab527e71f61ab14a
+      internalID: -1990096195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_240
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe4c62201e524449cdf272d4a1b356
+      internalID: -1061537654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_241
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54bbeaaf3daa894a80d2efdd2222b51
+      internalID: 830314457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_242
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c12f6beec853459fe73eaa0e3e3cd
+      internalID: 1559488233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_243
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3130f0f99df744c96f6ca2330411fe
+      internalID: -997782183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_244
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398e82d2cc7c1ee4b9eccc519dbafc2a
+      internalID: 52399437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_245
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876da5285232654aa38e7ab995b3fb5
+      internalID: -1761796944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_246
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44589b8258a516d4aa4b9a7d82d37c69
+      internalID: 379567491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_VillageComplete_247
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce7e8e8fc07394285df445ee243f49
+      internalID: -147004581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FG_VillageComplete_0: 1699410892
+      FG_VillageComplete_1: 461188172
+      FG_VillageComplete_10: 1417039594
+      FG_VillageComplete_100: -1369616992
+      FG_VillageComplete_101: -73776064
+      FG_VillageComplete_102: -1430432644
+      FG_VillageComplete_103: 1045084100
+      FG_VillageComplete_104: -1474660319
+      FG_VillageComplete_105: 1109434323
+      FG_VillageComplete_106: -605660591
+      FG_VillageComplete_107: 452644765
+      FG_VillageComplete_108: 1782235374
+      FG_VillageComplete_109: -852468428
+      FG_VillageComplete_11: -802718042
+      FG_VillageComplete_110: -670267452
+      FG_VillageComplete_111: -827491284
+      FG_VillageComplete_112: -1112194652
+      FG_VillageComplete_113: -1109491907
+      FG_VillageComplete_114: -324396162
+      FG_VillageComplete_115: 314449459
+      FG_VillageComplete_116: 1641100368
+      FG_VillageComplete_117: -818610977
+      FG_VillageComplete_118: -1635416909
+      FG_VillageComplete_119: 338710988
+      FG_VillageComplete_12: 675975109
+      FG_VillageComplete_120: 258197748
+      FG_VillageComplete_121: -1155843142
+      FG_VillageComplete_122: -1270760889
+      FG_VillageComplete_123: -90522781
+      FG_VillageComplete_124: 416259393
+      FG_VillageComplete_125: -608152742
+      FG_VillageComplete_126: 572995863
+      FG_VillageComplete_127: -1565047806
+      FG_VillageComplete_128: -2003647725
+      FG_VillageComplete_129: 432329460
+      FG_VillageComplete_13: -1773724001
+      FG_VillageComplete_130: -1965056014
+      FG_VillageComplete_131: 594933658
+      FG_VillageComplete_132: 1771418459
+      FG_VillageComplete_133: -1085399902
+      FG_VillageComplete_134: -1517544361
+      FG_VillageComplete_135: -256488179
+      FG_VillageComplete_136: -1634292589
+      FG_VillageComplete_137: -245496361
+      FG_VillageComplete_138: 526026365
+      FG_VillageComplete_139: 811454816
+      FG_VillageComplete_14: 428285697
+      FG_VillageComplete_140: 477091986
+      FG_VillageComplete_141: 451217379
+      FG_VillageComplete_142: -1356108505
+      FG_VillageComplete_143: -1576696359
+      FG_VillageComplete_144: -913574315
+      FG_VillageComplete_145: 1292608939
+      FG_VillageComplete_146: -317118726
+      FG_VillageComplete_147: -811356232
+      FG_VillageComplete_148: 621175909
+      FG_VillageComplete_149: -1913875694
+      FG_VillageComplete_15: 1679999290
+      FG_VillageComplete_150: -194875898
+      FG_VillageComplete_151: -1511024138
+      FG_VillageComplete_152: 2130066411
+      FG_VillageComplete_153: 1952377879
+      FG_VillageComplete_154: -1224976946
+      FG_VillageComplete_155: 467637333
+      FG_VillageComplete_156: 1712507551
+      FG_VillageComplete_157: -1309785126
+      FG_VillageComplete_158: -1490315480
+      FG_VillageComplete_159: 538766631
+      FG_VillageComplete_16: -1306034111
+      FG_VillageComplete_160: 754257245
+      FG_VillageComplete_161: 562490635
+      FG_VillageComplete_162: 1182166594
+      FG_VillageComplete_163: 29752450
+      FG_VillageComplete_164: -712269294
+      FG_VillageComplete_165: 1742535954
+      FG_VillageComplete_166: 1976492596
+      FG_VillageComplete_167: -781482497
+      FG_VillageComplete_168: -1454794242
+      FG_VillageComplete_169: 1089373369
+      FG_VillageComplete_17: -250757295
+      FG_VillageComplete_170: 1702715441
+      FG_VillageComplete_171: -644275671
+      FG_VillageComplete_172: 703508594
+      FG_VillageComplete_173: 1887442256
+      FG_VillageComplete_174: -1462890690
+      FG_VillageComplete_175: -1306358863
+      FG_VillageComplete_176: 1660126024
+      FG_VillageComplete_177: 295509653
+      FG_VillageComplete_178: 866501033
+      FG_VillageComplete_179: -1066240204
+      FG_VillageComplete_18: 186978142
+      FG_VillageComplete_180: -1684521628
+      FG_VillageComplete_181: -1682490819
+      FG_VillageComplete_182: -754848990
+      FG_VillageComplete_183: 1559437903
+      FG_VillageComplete_184: 1449612606
+      FG_VillageComplete_185: 764450385
+      FG_VillageComplete_186: 1125733052
+      FG_VillageComplete_187: 404609803
+      FG_VillageComplete_188: -18284255
+      FG_VillageComplete_189: 299122441
+      FG_VillageComplete_19: -1975571914
+      FG_VillageComplete_190: 1244284081
+      FG_VillageComplete_191: 1552576888
+      FG_VillageComplete_192: 890712781
+      FG_VillageComplete_193: 1517225830
+      FG_VillageComplete_194: 1033979618
+      FG_VillageComplete_195: 235082259
+      FG_VillageComplete_196: -1770195989
+      FG_VillageComplete_197: -1534285787
+      FG_VillageComplete_198: -1325118376
+      FG_VillageComplete_199: 863957331
+      FG_VillageComplete_2: 1918525391
+      FG_VillageComplete_20: 353464296
+      FG_VillageComplete_200: 854945544
+      FG_VillageComplete_201: 882466609
+      FG_VillageComplete_202: -875624027
+      FG_VillageComplete_203: 41286774
+      FG_VillageComplete_204: -5153836
+      FG_VillageComplete_205: 1709447125
+      FG_VillageComplete_206: -1750161209
+      FG_VillageComplete_207: -1431187909
+      FG_VillageComplete_208: -1079680784
+      FG_VillageComplete_209: -1583260884
+      FG_VillageComplete_21: -954293444
+      FG_VillageComplete_210: -1658033745
+      FG_VillageComplete_211: 1068911535
+      FG_VillageComplete_212: 17875618
+      FG_VillageComplete_213: -1511498412
+      FG_VillageComplete_214: -1747477813
+      FG_VillageComplete_215: 432136065
+      FG_VillageComplete_216: 426434785
+      FG_VillageComplete_217: 604790772
+      FG_VillageComplete_218: 1507437785
+      FG_VillageComplete_219: 1449575022
+      FG_VillageComplete_22: 1144952480
+      FG_VillageComplete_220: 165562467
+      FG_VillageComplete_221: -762272455
+      FG_VillageComplete_222: -1837787855
+      FG_VillageComplete_223: 199307338
+      FG_VillageComplete_224: -757837913
+      FG_VillageComplete_225: -712486711
+      FG_VillageComplete_226: 1326166184
+      FG_VillageComplete_227: 625173178
+      FG_VillageComplete_228: -1279054696
+      FG_VillageComplete_229: 2083624482
+      FG_VillageComplete_23: -126139485
+      FG_VillageComplete_230: 1790956284
+      FG_VillageComplete_231: 95742745
+      FG_VillageComplete_232: 929634856
+      FG_VillageComplete_233: 2082565046
+      FG_VillageComplete_234: 859330826
+      FG_VillageComplete_235: 549483549
+      FG_VillageComplete_236: -1909229495
+      FG_VillageComplete_237: 2034646989
+      FG_VillageComplete_238: -538474956
+      FG_VillageComplete_239: -1990096195
+      FG_VillageComplete_24: -1940133622
+      FG_VillageComplete_240: -1061537654
+      FG_VillageComplete_241: 830314457
+      FG_VillageComplete_242: 1559488233
+      FG_VillageComplete_243: -997782183
+      FG_VillageComplete_244: 52399437
+      FG_VillageComplete_245: -1761796944
+      FG_VillageComplete_246: 379567491
+      FG_VillageComplete_247: -147004581
+      FG_VillageComplete_25: 1532550681
+      FG_VillageComplete_26: -720737541
+      FG_VillageComplete_27: 861501033
+      FG_VillageComplete_28: -1376814610
+      FG_VillageComplete_29: 254654773
+      FG_VillageComplete_3: 1188912814
+      FG_VillageComplete_30: 1283196873
+      FG_VillageComplete_31: 297278574
+      FG_VillageComplete_32: -622986527
+      FG_VillageComplete_33: 1056045580
+      FG_VillageComplete_34: 1340854659
+      FG_VillageComplete_35: 1540045448
+      FG_VillageComplete_36: -1324161191
+      FG_VillageComplete_37: 1322416664
+      FG_VillageComplete_38: 759042421
+      FG_VillageComplete_39: -1485110707
+      FG_VillageComplete_4: -823627176
+      FG_VillageComplete_40: -1887058288
+      FG_VillageComplete_41: -1535891121
+      FG_VillageComplete_42: -528874523
+      FG_VillageComplete_43: 784110995
+      FG_VillageComplete_44: -815746446
+      FG_VillageComplete_45: -1401609224
+      FG_VillageComplete_46: 1521196032
+      FG_VillageComplete_47: 1624747930
+      FG_VillageComplete_48: 1916898090
+      FG_VillageComplete_49: -1315143486
+      FG_VillageComplete_5: -1007080503
+      FG_VillageComplete_50: -233002633
+      FG_VillageComplete_51: -1652547821
+      FG_VillageComplete_52: -1614443774
+      FG_VillageComplete_53: -971345874
+      FG_VillageComplete_54: 1964009777
+      FG_VillageComplete_55: -1168008834
+      FG_VillageComplete_56: 351732398
+      FG_VillageComplete_57: -2121085918
+      FG_VillageComplete_58: -1225387030
+      FG_VillageComplete_59: -228186773
+      FG_VillageComplete_6: 887073430
+      FG_VillageComplete_60: -2044752808
+      FG_VillageComplete_61: -1548682902
+      FG_VillageComplete_62: -685918435
+      FG_VillageComplete_63: -1080278496
+      FG_VillageComplete_64: 298101777
+      FG_VillageComplete_65: 1050619045
+      FG_VillageComplete_66: -809835343
+      FG_VillageComplete_67: -294819921
+      FG_VillageComplete_68: -881876876
+      FG_VillageComplete_69: 1624355415
+      FG_VillageComplete_7: 2050108015
+      FG_VillageComplete_70: 158021333
+      FG_VillageComplete_71: 625766
+      FG_VillageComplete_72: 1121028219
+      FG_VillageComplete_73: -1764712693
+      FG_VillageComplete_74: 2016100414
+      FG_VillageComplete_75: -1318262374
+      FG_VillageComplete_76: -270408275
+      FG_VillageComplete_77: -1797405038
+      FG_VillageComplete_78: -288681254
+      FG_VillageComplete_79: -304338882
+      FG_VillageComplete_8: 1392549584
+      FG_VillageComplete_80: 976929195
+      FG_VillageComplete_81: 1629655826
+      FG_VillageComplete_82: -1560821707
+      FG_VillageComplete_83: -1538583947
+      FG_VillageComplete_84: -274928369
+      FG_VillageComplete_85: -1128028096
+      FG_VillageComplete_86: 1068939458
+      FG_VillageComplete_87: 152676393
+      FG_VillageComplete_88: 27630954
+      FG_VillageComplete_89: 1925895023
+      FG_VillageComplete_9: -971245844
+      FG_VillageComplete_90: 1575659499
+      FG_VillageComplete_91: -734527383
+      FG_VillageComplete_92: -476841067
+      FG_VillageComplete_93: 738991816
+      FG_VillageComplete_94: 1364918905
+      FG_VillageComplete_95: -1173204756
+      FG_VillageComplete_96: 59187407
+      FG_VillageComplete_97: 776583178
+      FG_VillageComplete_98: 2021052864
+      FG_VillageComplete_99: 246958808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf21dd37f0815c241aa2e76ae26e5b46, type: 3}
+  m_Name: Coffe
+  m_EditorClassIdentifier: 
+  timeToGrow: 20
+  cropResult: {fileID: 11400000, guid: 23e6c17961f8618489fa42696b7f368a, type: 2}
+  count: 10
+  sprites:
+  - {fileID: 1732675993, guid: 828e06b67cab49744b3fee331d730366, type: 3}
+  - {fileID: -634863312, guid: 828e06b67cab49744b3fee331d730366, type: 3}
+  - {fileID: -359863411, guid: 828e06b67cab49744b3fee331d730366, type: 3}
+  - {fileID: 40326317, guid: 828e06b67cab49744b3fee331d730366, type: 3}
+  growthStageTime: 00000000090000000c00000014000000

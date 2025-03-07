@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7670f9bc314ec234d85be082639c2119, type: 3}
+  m_Name: Gold Hoe Crafting Recipe
+  m_EditorClassIdentifier: 
+  elements:
+  - item: {fileID: 11400000, guid: d61d29618240e3144822d26f88c6bb8a, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: 67df02d09b77ba1408b060c675408b8b, type: 2}
+    count: 5
+  output:
+    item: {fileID: 11400000, guid: ff1f064b6c8792d45ba6d3b0c59e4293, type: 2}
+    count: 1

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 014ffd6b9a42a954393125214d8a55da, type: 3}
+  m_Name: FarmSceneJSONStrings
+  m_EditorClassIdentifier: 
+  strings:
+  - '{"spawnedObjectDatas":[{"objectId":1,"worldPosition":{"x":-1.2152650356292725,"y":11.773502349853516,"z":0.0011773501755669714}},{"objectId":0,"worldPosition":{"x":-3.064309597015381,"y":15.113622665405274,"z":0.0}},{"objectId":1,"worldPosition":{"x":-1.7482366561889649,"y":9.12738037109375,"z":0.0009127380326390266}},{"objectId":1,"worldPosition":{"x":-7.366549968719482,"y":8.312192916870118,"z":0.000831219251267612}}]}'
+  - '{"spawnedObjectDatas":[{"objectId":1,"worldPosition":{"x":-2.7254157066345217,"y":-1.4499911069869996,"z":-0.00014499911048915237}},{"objectId":1,"worldPosition":{"x":-8.380805969238282,"y":2.4427976608276369,"z":0.00024427977041341364}},{"objectId":1,"worldPosition":{"x":0.13802862167358399,"y":-0.7132159471511841,"z":-0.00007132159225875512}},{"objectId":0,"worldPosition":{"x":-9.28346061706543,"y":1.6679071187973023,"z":0.0}},{"objectId":1,"worldPosition":{"x":-2.3150601387023927,"y":0.8194459676742554,"z":0.00008194459223886952}}]}'

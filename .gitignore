@@ -1,0 +1,61 @@
+# ================
+# IGNORAR ARCHIVOS GENERADOS POR UNITY
+# ================
+
+# ⚠️ Estas carpetas NO deben subirse porque Unity las regenera automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# ⚠️ Ignorar archivos de configuración de Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.DS_Store
+
+# ⚠️ Ignorar archivos de compilación y dependencias
+*.bak
+*.swp
+*.lock
+.DS_Store
+._*
+
+# ⚠️ Ignorar carpetas y archivos de Plastic SCM (si no usas Git en Unity)
+.plastic/
+ignore.conf
+
+# ⚠️ Mantener la carpeta "Packages/", pero ignorar `packages-lock.json`
+Packages/packages-lock.json
+
+# ⚠️ Ignorar archivos temporales de JetBrains Rider
+.idea/
+*.iml
+
+# ⚠️ Ignorar configuraciones de Unity Analytics y XR
+Analytics/
+MemoryCaptures/
+
+# ⚠️ Ignorar configuraciones específicas del usuario
+*.psess
+*.pidb
+*.unityproj
+*.asset
+*.prefs
+
+# ⚠️ Ignorar carpetas de Git y Unity Collaborate (si se usa)
+.git/
+.Collab/

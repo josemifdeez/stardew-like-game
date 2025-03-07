@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a9f9d3812057244ba0b0273c23c284, type: 3}
+  m_Name: SuperPlowAction
+  m_EditorClassIdentifier: 
+  energyCost: 3
+  skillType: 0
+  skillExperienceReward: 100
+  animationTrigger: plow
+  canPlow:
+  - {fileID: 11400000, guid: a5bb884dd3ecc62459b3a86c0e828db1, type: 2}
+  - {fileID: 11400000, guid: 5b350ea091e77cb4b80671c8dc8f06af, type: 2}
+  onPlowUsed: {fileID: 0}

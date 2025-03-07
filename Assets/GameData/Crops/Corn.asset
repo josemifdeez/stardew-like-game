@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf21dd37f0815c241aa2e76ae26e5b46, type: 3}
+  m_Name: Corn
+  m_EditorClassIdentifier: 
+  timeToGrow: 40
+  cropResult: {fileID: 11400000, guid: 291c9dfc67a2396458b99fe2b3816814, type: 2}
+  count: 7
+  sprites:
+  - {fileID: -106775294, guid: 7e689ea00425b064985308b1176332eb, type: 3}
+  - {fileID: -61271829, guid: 7e689ea00425b064985308b1176332eb, type: 3}
+  - {fileID: 996933344, guid: 7e689ea00425b064985308b1176332eb, type: 3}
+  - {fileID: -609765969, guid: 7e689ea00425b064985308b1176332eb, type: 3}
+  growthStageTime: 000000000d0000001400000028000000
