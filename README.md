@@ -6,20 +6,21 @@
 
 ## 🕹️ Funcionalidades destacadas
 - **Crafteo e inventario:** fabrica objetos, almacena y gestiona recursos.
-- **Recolección y minería:** tala árboles, mina minerales y procesa materiales.
+- **Recolección de recursos:** tala árboles, mina minerales y procesa materiales.
 - **Agricultura:** planta semillas y cultiva alimentos.
 - **Exploración:** múltiples áreas (ciudad, granja, pradera, cueva).
 - **Ciclo día-noche:** influencia las acciones y permite descansar.
-- **Interacción:** diálogos con NPCs, entrada a casas y edificios.
+- **Interacción:** diálogos con NPCs y entrada a edificios.
 - **Combate:** variedad de enemigos con diferentes comportamientos.
 - **Economía:** comercio en tiendas específicas de armas y semillas.
 - **Personaje:** personalización de género y nombre, gestión de salud, estamina y monedas.
 - **Items:** coloca objetos en el mapa como cofres u hornos, dropea ítems y recógelos automáticamente.
 
-## 🛠️ Herramientas Utilizadas
-- Unity
-- C#
-- Git y GitHub
+## Herramientas Utilizadas
+<p align="left">
+<img src="https://img.shields.io/badge/C%23-7B3399?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 
 ## 📸 Capturas destacadas
 ### 🌱 Sistema de Agricultura
