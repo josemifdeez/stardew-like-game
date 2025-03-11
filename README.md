@@ -35,5 +35,5 @@
 
 ## ⚙️ Cómo ejecutar el juego
 - Clona el repositorio `git clone URL`
-- Abre el proyecto en Unity versión (especifica versión)
+- Abre el proyecto en Unity versión 2022.3.14f1
 - Ejecuta el proyecto desde la escena principal
