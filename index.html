@@ -1,54 +1,405 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="es">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🌾 Stardew Valley-like Game</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Juego Pixel-Art Inspirado en Stardew Valley</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- GSAP para animaciones -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/gsap.min.js"></script>
+  <!-- Particles.js para partículas ambientales -->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <!-- SwiperJS para el carrusel -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <!-- Fuente pixel-art -->
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <header>
-        <h1>🌾 Stardew Valley-like Game</h1>
-        <p>Simulador de vida desarrollado en Unity con mecánicas de recolección, crafting y combate.</p>
-    </header>
+  <!-- Fondo de partículas (hojas cayendo) -->
+  <div id="particles-js"></div>
+  
+  <!-- Encabezado principal -->
+  <header>
+    <div class="header-content">
+      <img src="Assets/WebImages/corn.png" alt="Ilustración Pixel-Art" class="header-illustration">
+      <h1 class="typewriter">Stardew Valley-like Game</h1>
+    </div>
+    <p>Simulador desarrollado en Unity con crafting, combate y exploración.</p>
+  </header>
+   
+  <main>
+    <!-- Sección de Características -->
+    <section class="features fade-up">
+      <h2 class="section-title">Características del juego</h2>
+      <div class="features-container">
+        <!-- Tarjeta 1 -->
+        <div class="feature-card" data-description="Crafteo: Crea herramientas y objetos únicos con materiales recolectados." data-img="Assets/WebImages/icono-crafteo.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-crafteo.webp" alt="Crafteo de objetos">
+          </div>
+          <div class="feature-text">Crafteo de objetos</div>
+        </div>
+        <!-- Tarjeta 2 -->
+        <div class="feature-card" data-description="Tala y minería: Extrae recursos naturales y minerales." data-img="Assets/WebImages/icono-tala.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-tala.webp" alt="Tala y minería">
+          </div>
+          <div class="feature-text">Tala y minería</div>
+        </div>
+        <!-- Tarjeta 3 -->
+        <div class="feature-card" data-description="Cultivos: Cultiva y cuida tus plantas en un entorno dinámico." data-img="Assets/WebImages/icono-cultivos.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-cultivos.webp" alt="Cultivos progresivos">
+          </div>
+          <div class="feature-text">Cultivos progresivos</div>
+        </div>
+        <!-- Tarjeta 4 -->
+        <div class="feature-card" data-description="Interiores y diálogo: Explora edificios y conoce personajes." data-img="Assets/WebImages/icono-interiores.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-interiores.webp" alt="Interiores y diálogo">
+          </div>
+          <div class="feature-text">Interiores y diálogo</div>
+        </div>
+        <!-- Tarjeta 5 -->
+        <div class="feature-card" data-description="Escenarios variados: Descubre diferentes ambientes y paisajes." data-img="Assets/WebImages/icono-escenarios.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-escenarios.webp" alt="Varios escenarios">
+          </div>
+          <div class="feature-text">Varios escenarios</div>
+        </div>
+        <!-- Tarjeta 6 -->
+        <div class="feature-card" data-description="Combate dinámico: Enfréntate a enemigos con estrategias diversas." data-img="Assets/WebImages/icono-combate.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-combate.webp" alt="Combate dinámico">
+          </div>
+          <div class="feature-text">Combate dinámico</div>
+        </div>
+        <!-- Tarjeta 7 -->
+        <div class="feature-card" data-description="Ciclo día/noche: Experimenta cambios ambientales y de jugabilidad." data-img="Assets/WebImages/icono-ciclo.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-ciclo.png" alt="Ciclo día/noche">
+          </div>
+          <div class="feature-text">Ciclo día/noche</div>
+        </div>
+        <!-- Tarjeta 8 -->
+        <div class="feature-card" data-description="Fundición: Transforma minerales en recursos útiles." data-img="Assets/WebImages/icono-fundicion.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-fundicion.webp" alt="Fundición en hornos">
+          </div>
+          <div class="feature-text">Fundición en hornos</div>
+        </div>
+        <!-- Tarjeta 9 -->
+        <div class="feature-card" data-description="Inventario interactivo: Organiza tus objetos de manera sencilla." data-img="Assets/WebImages/icono-inventario.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-inventario.png" alt="Inventario interactivo">
+          </div>
+          <div class="feature-text">Inventario interactivo</div>
+        </div>
+        <!-- Tarjeta 10 -->
+        <div class="feature-card" data-description="Comercio en tiendas: Compra y vende con personajes del juego." data-img="Assets/WebImages/icono-comercio.png">
+          <div class="feature-icon">
+            <img src="Assets/WebImages/icono-comercio.webp" alt="Comercio en tiendas">
+          </div>
+          <div class="feature-text">Comercio en tiendas</div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Sección de Galería (carrusel de GIFs) -->
+    <section class="gallery fade-up">
+      <h2 class="section-title">Galería</h2>
+      <div class="swiper-container">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <img src="Assets/WebImages/inventario.gif" alt="Inventario y crafteo">
+            <p class="carousel-label">Inventario interactivo</p>
+          </div>
+          <div class="swiper-slide">
+            <img src="Assets/WebImages/cultivos.gif" alt="Crecimiento de cultivos">
+            <p class="carousel-label">Cultivos progresivos</p>
+          </div>
+          <div class="swiper-slide">
+            <img src="Assets/WebImages/combate.gif" alt="Combate con enemigos">
+            <p class="carousel-label">Combate dinámico</p>
+          </div>
+          <div class="swiper-slide">
+            <img src="Assets/WebImages/dia-noche.gif" alt="Cambio día/noche">
+            <p class="carousel-label">Ciclo Día/Noche</p>
+          </div>
+          <div class="swiper-slide">
+            <img src="Assets/WebImages/tienda.gif" alt="Compra y venta en tiendas">
+            <p class="carousel-label">Tienda interactiva</p>
+          </div>
+          <div class="swiper-slide">
+            <img src="Assets/WebImages/horno.gif" alt="Fundición de minerales">
+            <p class="carousel-label">Fundición en hornos</p>
+          </div>
+          <div class="swiper-slide">
+            <img src="Assets/WebImages/recoleccion.gif" alt="Recolección de recursos">
+            <p class="carousel-label">Recolección de recursos</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- CTA hacia GitHub -->
+    <section class="github fade-up">
+      <h2 class="section-title">Ver en GitHub</h2>
+      <a href="https://github.com/josemifdeez/stardew-like-game" target="_blank" class="btn">
+        <img src="Assets/WebImages/logo.png" alt="GitHub" class="github-icon">
+        Repositorio GitHub
+      </a>
+    </section>
+  </main>
+  
+  <!-- Footer sin el </div> extra -->
+  <footer>
+    <p>© 2025 Jose Miguel López | Desarrollador de Software</p> 
+  </footer>
+  
+  <!-- Modal para ampliar GIFs (Galería) -->
+  <div id="modal" class="modal">
+    <span class="close">&times;</span>
+    <span class="prev">&#10094;</span>
+    <img class="modal-content" id="modal-img">
+    <span class="next">&#10095;</span>
+  </div>
+  
+  <!-- Modal para mostrar detalles de la característica (Esta funcionalidad se ha deshabilitado) -->
+  <div id="feature-modal" class="modal">
+    <div class="modal-content feature-modal-content">
+      <span class="close-feature">&times;</span>
+      <img class="feature-modal-img" src="" alt="Detalle de característica">
+      <p class="feature-modal-text"></p>
+    </div>
+  </div>
+  
+  <!-- JavaScript -->
+  <script>
+    // Función de precarga de imágenes con Promesas
+    const preloadImages = () => {
+      const images = [
+        'Assets/WebImages/inventario.gif',
+        'Assets/WebImages/cultivos.gif',
+        'Assets/WebImages/combate.gif',
+        'Assets/WebImages/dia-noche.gif',
+        'Assets/WebImages/tienda.gif',
+        'Assets/WebImages/horno.gif',
+        'Assets/WebImages/recoleccion.gif'
+      ];
+      const promises = images.map(src => new Promise((resolve) => {
+        const img = new Image();
+        img.onload = resolve;
+        img.onerror = resolve;
+        img.src = src;
+      }));
+      return Promise.all(promises);
+    };
 
-    <main>
-        <section class="features">
-            <h2>🎮 Características del Juego</h2>
-            <ul>
-                <li>🌱 Cultivos con crecimiento progresivo</li>
-                <li>🏗️ Colocación de objetos (cofres, hornos, etc.)</li>
-                <li>⚔️ IA de enemigos con ataques</li>
-                <li>🌤️ Sistema de ciclo día/noche</li>
-                <li>🛍️ Tiendas con compra y venta de ítems</li>
-            </ul>
-        </section>
+    // Declarar swiper en ámbito global
+    var swiper;
 
-        <section class="gallery">
-            <h2>📸 Galería de Gameplay</h2>
-            <div class="image-grid">
-                <img src="Assets/WebImages/inventario.gif" alt="Inventario y crafteo">
-                <img src="Assets/WebImages/cultivos.gif" alt="Crecimiento de cultivos">
-                <img src="Assets/WebImages/combate.gif" alt="Combate con enemigos">
-                <img src="Assets/WebImages/dia-noche.gif" alt="Cambio día/noche">
-                <img src="Assets/WebImages/tienda.gif" alt="Compra y venta en tiendas">
-                <img src="Assets/WebImages/horno.gif" alt="Uso del horno">
-                <img src="Assets/WebImages/recoleccion.gif" alt="Recolección de recursos">
-            </div>
-        </section>
+    // Inicializa SwiperJS tras la precarga de imágenes
+    preloadImages().then(() => {
+      swiper = new Swiper('.swiper-container', {
+        loop: true,
+        slidesPerView: 5,
+        initialSlide: 1,
+        slidesPerGroup: 1,
+        spaceBetween: 0,
+        autoplay: {
+          delay: 3000,
+          disableOnInteraction: false,
+        },
+        speed: 2000,
+        observer: true,
+        observeParents: true,
+        loopAdditionalSlides: 2,
+        watchSlidesProgress: true,
+        breakpoints: {
+          640: {
+            slidesPerView: 2,
+            spaceBetween: 20
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 30
+          }
+        }
+      });
 
-        <section class="github">
-            <h2>🔗 Ver en GitHub</h2>
-            <p>Puedes ver el código fuente y más detalles en el repositorio de GitHub.</p>
-            <a href="https://github.com/josemifdeez/stardew-like-game" target="_blank" class="btn">🔗 Ver en GitHub</a>
-        </section>
-    </main>
+      // Actualiza Swiper cuando se carguen todas las imágenes de las diapositivas
+      const slideImages = document.querySelectorAll('.swiper-slide img');
+      let loadedCount = 0;
+      slideImages.forEach(img => {
+        const done = () => {
+          loadedCount++;
+          if (loadedCount === slideImages.length) {
+            swiper.update();
+          }
+        };
+        if (img.complete) {
+          done();
+        } else {
+          img.addEventListener('load', done);
+          img.addEventListener('error', done);
+        }
+      });
+    });
 
-    <footer>
-        <p>© 2024 Jose Miguel López | Desarrollador de Software</p>
-    </footer>
+    // Modal de la galería
+    const slideImagesModal = document.querySelectorAll('.swiper-slide img');
+    const imagesArray = Array.from(slideImagesModal);
+    const modal = document.getElementById('modal');
+    const modalImg = document.getElementById("modal-img");
+    const closeBtn = document.querySelector('.close');
+    const prevBtn = document.querySelector('.prev');
+    const nextBtn = document.querySelector('.next');
+    let currentImgIndex = 0;
+
+    function openModal(index) {
+      currentImgIndex = index;
+      modal.style.display = "flex";
+      modal.classList.add('fade-in-scale');
+      modalImg.src = imagesArray[currentImgIndex].src;
+    }
+
+    imagesArray.forEach((img, index) => {
+      img.addEventListener('click', () => openModal(index));
+    });
+
+    function closeModal() {
+      modal.style.display = "none";
+      modal.classList.remove('fade-in-scale');
+    }
+
+    closeBtn.onclick = closeModal;
+    window.onclick = function (event) {
+      if (event.target === modal) closeModal();
+    };
+
+    function changeImg(n) {
+      currentImgIndex = (currentImgIndex + n + imagesArray.length) % imagesArray.length;
+      modalImg.src = imagesArray[currentImgIndex].src;
+    }
+
+    prevBtn.onclick = () => changeImg(-1);
+    nextBtn.onclick = () => changeImg(1);
+
+    // Animaciones con GSAP
+    gsap.from("header", { opacity: 0, y: -50, duration: 1 });
+    gsap.from(".feature-card", { opacity: 0, y: 20, stagger: 0.1, duration: 1 });
+
+    // Fade-up on scroll con IntersectionObserver
+    const faders = document.querySelectorAll('.fade-up');
+    const appearOptions = {
+      threshold: 0.2,
+      rootMargin: "0px 0px -50px 0px"
+    };
+
+    const appearOnScroll = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        entry.target.classList.add('visible');
+        if (entry.target.classList.contains('gallery')) {
+          setTimeout(() => {
+            void entry.target.offsetWidth;
+            entry.target.style.transform = 'none';
+            if (swiper) {
+              swiper.update();
+            }
+          }, 600);
+        }
+        observer.unobserve(entry.target);
+      });
+    }, appearOptions);
+
+    faders.forEach(fader => {
+      appearOnScroll.observe(fader);
+    });
+
+    // Particles.js
+    particlesJS("particles-js", {
+      "particles": {
+        "number": {
+          "value": 40,
+          "density": {
+            "enable": true,
+            "value_area": 800
+          }
+        },
+        "shape": {
+          "type": "image",
+          "image": {
+            "src": "Assets/WebImages/leaf.png",
+            "width": 20,
+            "height": 20
+          }
+        },
+        "opacity": {
+          "value": 0.8,
+          "random": true,
+          "anim": { "enable": false }
+        },
+        "size": {
+          "value": 15,
+          "random": true,
+          "anim": { "enable": false }
+        },
+        "move": {
+          "enable": true,
+          "speed": 2,
+          "direction": "bottom",
+          "random": true,
+          "straight": false,
+          "out_mode": "out"
+        }
+      },
+      "interactivity": {
+        "detect_on": "canvas",
+        "events": {
+          "onhover": { "enable": false },
+          "onclick": { "enable": false }
+        }
+      },
+      "retina_detect": true
+    });
+
+    // MODAL DE CARACTERÍSTICAS
+    // Se ha deshabilitado la funcionalidad de clic en las tarjetas de características,
+    // por lo que no se asignan eventos para abrir el modal correspondiente.
+    // El siguiente bloque de código ha sido comentado:
+    /*
+    const featureCards = document.querySelectorAll('.feature-card');
+    const featureModal = document.getElementById('feature-modal');
+    const featureModalImg = document.querySelector('.feature-modal-img');
+    const featureModalText = document.querySelector('.feature-modal-text');
+    const closeFeatureBtn = document.querySelector('.close-feature');
+
+    function openFeatureModal(card) {
+      const description = card.getAttribute('data-description');
+      const imgSrc = card.getAttribute('data-img');
+      featureModalImg.src = imgSrc;
+      featureModalText.textContent = description;
+      featureModal.style.display = "flex";
+    }
+
+    featureCards.forEach(card => {
+      card.addEventListener('click', () => openFeatureModal(card));
+    });
+
+    closeFeatureBtn.onclick = function() {
+      featureModal.style.display = "none";
+    };
+
+    window.addEventListener('click', (event) => {
+      if (event.target === featureModal) {
+        featureModal.style.display = "none";
+      }
+    });
+    */
+  </script>
 </body>
-
 </html>
