@@ -1,55 +1,61 @@
-# Carpetas de Unity que no deben subirse
-Library/
-Logs/
-Temp/
-Obj/
-Builds/
-MemoryCaptures/
+# ================
+# IGNORAR ARCHIVOS GENERADOS POR UNITY
+# ================
+
+# ⚠️ Estas carpetas NO deben subirse porque Unity las regenera automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
 UserSettings/
 
-# Archivos específicos de Unity
-*.pidb
-*.suo
-*.user
-*.userprefs
+# ⚠️ Ignorar archivos de configuración de Visual Studio
+.vscode/
 *.csproj
 *.sln
-*.swp
+*.suo
 *.tmp
-*.bak
+*.user
+*.userprefs
+*.pidb
+*.booproj
 *.svd
-
-# XAMPP y bases de datos locales
-xampp/
-htdocs/
-*.sql
-*.db
-
-# Archivos de compilación y dependencias
-*.exe
-*.dll
-*.apk
-*.app
-*.ipa
-*.class
-*.jar
 *.pdb
-*.idb
-*.obj
-*.so
-*.zip
-*.tar.gz
-*.rar
+*.opendb
+*.VC.db
+*.DS_Store
 
-# Carpetas del sistema y archivos temporales
+# ⚠️ Ignorar archivos de compilación y dependencias
+*.bak
+*.swp
+*.lock
 .DS_Store
-Thumbs.db
+._*
 
-# Archivos de Visual Studio que no deben subirse
-.vs/
-.vscode/
-*.vsconfig
+# ⚠️ Ignorar carpetas y archivos de Plastic SCM (si no usas Git en Unity)
+.plastic/
+ignore.conf
 
-# Carpetas de compilación de C#
-bin/
-obj/
+# ⚠️ Mantener la carpeta "Packages/", pero ignorar `packages-lock.json`
+Packages/packages-lock.json
+
+# ⚠️ Ignorar archivos temporales de JetBrains Rider
+.idea/
+*.iml
+
+# ⚠️ Ignorar configuraciones de Unity Analytics y XR
+Analytics/
+MemoryCaptures/
+
+# ⚠️ Ignorar configuraciones específicas del usuario
+*.psess
+*.pidb
+*.unityproj
+*.asset
+*.prefs
+
+# ⚠️ Ignorar carpetas de Git y Unity Collaborate (si se usa)
+.git/
+.Collab/
