@@ -35,6 +35,6 @@
 ➡️ **[Ver más GIFs y funcionalidades en la página web del proyecto](https://josemifdeez.github.io/stardew-like-game/)**
 
 ## ⚙️ Cómo ejecutar el juego
-- Clona el repositorio `git clone URL`
+- Clona el repositorio `git clone https://github.com/josemifdeez/stardew-like-game.git`
 - Abre el proyecto en Unity versión 2022.3.14f1
 - Ejecuta el proyecto desde la escena principal
